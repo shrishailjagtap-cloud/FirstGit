@@ -13,4 +13,8 @@ public class Test {
 		t.show();
 		
 	}
+	public void m1() {
+		
+		System.out.println("m1");
+	}
 }
